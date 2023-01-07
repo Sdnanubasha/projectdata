@@ -1,6 +1,6 @@
-{
-    "Amazon_originals":[
+[
         {
+            "category_id":1,
             "a_o_id":1,
             "title":"The Rings Of Power",
             "image":"https://i.ibb.co/SvXzLc1/The-rings-of-power.jpg",
@@ -9,6 +9,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":1,
             "a_o_id":2,
             "title":"The Family Man",
             "image":"https://i.ibb.co/rfNzMwy/Family-man.jpg",
@@ -17,6 +18,7 @@
             "releaseYear":2021
         },
         {
+            "category_id":1,
             "a_o_id":3,
             "title":"Good Night Oppy",
             "image":"https://i.ibb.co/PzHMd8F/Good-night-oppy.jpg",
@@ -25,6 +27,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":1,
             "a_o_id":4,
             "title":"Hush Hush",
             "image":"https://i.ibb.co/RQz9LTG/Hush-Hush.jpg",
@@ -33,6 +36,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":1,
             "a_o_id":5,
             "title":"Mirzapur",
             "image":"https://i.ibb.co/Gc1ZZ9F/Mirzapur.jpg",
@@ -41,6 +45,7 @@
             "releaseYear":2020
         },
         {
+            "category_id":1,
             "a_o_id":6,
             "title":"Overdose",
             "image":"https://i.ibb.co/X4q9Hwt/Overdose.jpg",
@@ -49,6 +54,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":1,
             "a_o_id":7,
             "title":"The Boys",
             "image":"https://i.ibb.co/NCTLVJf/The-boys.jpg",
@@ -57,18 +63,20 @@
             "releaseYear":2022
         },
         {
+            "category_id":1,
             "a_o_id":8,
             "title":"The Peripheral",
             "image":"https://i.ibb.co/mHMXTDQ/The-peripheral.jpg",
             "description":"The Peripheral centers on Flynne Fisher, a woman trying to hold together the pieces of her broken family in a forgotten corner of tomorrow's America. Flynne is smart, ambitious, and doomed. She has no future. Until the future comes calling for her. The Peripheral is master storyteller William Gibson’s dazzling, hallucinatory glimpse into the fate of mankind — and what lies beyond.",
             "rating":8.0,
             "releaseYear":2022
-        }
-    ],
+        },
 
 
-    "Movies":[
+
+
         {
+            "category_id":2,
             "m_id":1,
             "title":"300",
             "image":"https://i.ibb.co/HNvQGp3/300-movie.jpg",
@@ -77,6 +85,7 @@
             "releaseYear":2007
         },
         {
+            "category_id":2,
             "m_id":2,
             "title":"Avengers",
             "image":"https://i.ibb.co/kmWtv5P/avengers.jpg",
@@ -85,6 +94,7 @@
             "releaseYear":2009
         },
         {
+            "category_id":2,
             "m_id":3,
             "title":"Jujutsu Kaisen 0",
             "image":"https://i.ibb.co/BtkyHKG/jujutsu-kaisen-movie.webp",
@@ -93,6 +103,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":2,
             "m_id":4,
             "title":"KGF",
             "image":"https://i.ibb.co/fDH2GD7/kgf.jpg",
@@ -101,6 +112,7 @@
             "releaseYear":2018
         },
         {
+            "category_id":2,
             "m_id":5,
             "title":"One Piece Red",
             "image":"https://i.ibb.co/DzgsVd0/One-Piece-RED.jpg",
@@ -109,6 +121,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":2,
             "m_id":6,
             "title":"Sita Ramam",
             "image":"https://i.ibb.co/n6zrKZB/Sita-Ramam.jpg",
@@ -117,6 +130,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":2,
             "m_id":7,
             "title":"Pushpa",
             "image":"https://i.ibb.co/HB6wPn8/puspa.jpg",
@@ -125,18 +139,19 @@
             "releaseYear":2022
         },
         {
+            "category_id":2,
             "m_id":8,
             "title":"Shamshera",
             "image":"https://i.ibb.co/MChk05C/shamshera.jpg",
             "description":"The Khameran were a warrior tribe who were deceitfully imprisoned & enslaved in the fort of Kaza by Shuddh Singh (Sanjay Dutt). Their leader Shamshera (Ranbir Kapoor), tried to escape the fort to earn the price of his tribe’s freedom but in vain. 25 years later, his son Balli begins a journey to fulfill his father’s legacy and come to be the next Shamshera battling to win the freedom of his tribe.",
             "rating":4.2,
             "releaseYear":2022
-        }
-    ],
+        },
 
 
-    "Kids":[
+
         {
+            "category_id":3,
             "k_id":1,
             "title":"Ben 10 Ultimate Alien",
             "image":"https://i.ibb.co/FXPPBcb/ben-10-ultimate-alien.jpg",
@@ -145,6 +160,7 @@
             "releaseYear":2010
         },
         {
+            "category_id":3,
             "k_id":2,
             "title":"Chotta Bheem",
             "image":"https://i.ibb.co/d48xqcD/chhota-bheem.jpg",
@@ -153,6 +169,7 @@
             "releaseYear":2008
         },
         {
+            "category_id":3,
             "k_id":3,
             "title":"Doraemon",
             "image":"https://i.ibb.co/G7SP9dm/doraemon.jpg",
@@ -161,6 +178,7 @@
             "releaseYear":2006
         },
         {
+            "category_id":3,
             "k_id":4,
             "title":"Harry Potter and Goblet of Fire",
             "image":"https://i.ibb.co/LpfGXt6/harry-poter.webp",
@@ -169,6 +187,7 @@
             "releaseYear":2009
         },
         {
+            "category_id":3,
             "k_id":5,
             "title":"Oggy and The Cockcroaches",
             "image":"https://i.ibb.co/jMbRTyz/oggy-and-cockroaches.webp",
@@ -177,6 +196,7 @@
             "releaseYear":2008
         },
         {
+            "category_id":3,
             "k_id":6,
             "title":"Kung Fu Panda Lengends of Awesomeness",
             "image":"https://i.ibb.co/Q9d3q0V/kung-fu-panda-legends-of-awesomeness.jpg",
@@ -185,6 +205,7 @@
             "releaseYear":2018
         },
         {
+            "category_id":3,
             "k_id":7,
             "title":"The Baby Boss",
             "image":"https://i.ibb.co/jyBZvTG/the-baby-boss.jpg",
@@ -193,17 +214,20 @@
             "releaseYear":2017
         },
         {
+            "category_id":3,
             "k_id":8,
             "title":"Tom and Jerry",
             "image":"https://i.ibb.co/JQYgt99/Tom-and-Jerry.jpg",
             "description":"The classic cat and mouse duo are back. This cartoon series follows the antics of cat Tom in his pursuit of mouse Jerry.",
             "rating":7.5,
             "releaseYear":2021
-        }
-    ],
+        },
 
-    "TV":[
+
+
+
         {
+            "category_id":4,
             "t_id":1,
             "title":"Kung Fu Panda Lengends of Awesomeness",
             "image":"https://i.ibb.co/Q9d3q0V/kung-fu-panda-legends-of-awesomeness.jpg",
@@ -212,6 +236,7 @@
             "releaseYear":2018
         },
         {
+            "category_id":4,
             "t_id":2,
             "title":"Good Night Oppy",
             "image":"https://i.ibb.co/PzHMd8F/Good-night-oppy.jpg",
@@ -220,6 +245,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":4,
             "t_id":3,
             "title":"The Family Man",
             "image":"https://i.ibb.co/rfNzMwy/Family-man.jpg",
@@ -228,6 +254,7 @@
             "releaseYear":2021
         },
         {
+            "category_id":4,
             "t_id":4,
             "title":"The Boys",
             "image":"https://i.ibb.co/NCTLVJf/The-boys.jpg",
@@ -236,6 +263,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":4,
             "t_id":5,
             "title":"Overdose",
             "image":"https://i.ibb.co/X4q9Hwt/Overdose.jpg",
@@ -244,6 +272,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":4,
             "t_id":6,
             "title":"The Peripheral",
             "image":"https://i.ibb.co/mHMXTDQ/The-peripheral.jpg",
@@ -252,6 +281,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":4,
             "t_id":7,
             "title":"Just Add Magic",
             "image":"https://i.ibb.co/gmNPpJD/just-add-magic.jpg" ,
@@ -260,18 +290,20 @@
             "releaseYear":2016
         },
         {
+            "category_id":4,
             "t_id":8,
             "title":"The Rings of Power",
             "image":"https://i.ibb.co/SvXzLc1/The-rings-of-power.jpg" ,
             "description":"(For children ages 6-11) - Kelly Quinn and her two BFF's, Darbie and Hannah, stumble upon her grandmother's mysterious cookbook in the attic and discover some far from ordinary recipes. When the Shut'em Up Shortcake silences Kelly's pesky little brother and the Healing Hazelnut Tart heals Darbie's ankle, the girls discover they have the power of magic",
             "rating":6.9,
             "releaseYear":2022
-        }
-    ],
+        },
 
 
-    "Anime":[
+
+
         {
+            "category_id":5,
             "a_id":1,
             "title":"Jujutsu Kaisen 0",
             "image":"https://i.ibb.co/BtkyHKG/jujutsu-kaisen-movie.webp",
@@ -280,6 +312,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":5,
             "a_id":2,
             "title":"One Piece Red",
             "image":"https://i.ibb.co/DzgsVd0/One-Piece-RED.jpg",
@@ -288,6 +321,7 @@
             "releaseYear":2022
         },
         {
+            "category_id":5,
             "a_id":3,
             "title":"That Time I Reincarnated As A Silme",
             "image":"https://i.ibb.co/QmsDGcH/that-time-i-reincarnated-as-a-slime.jpg",
@@ -296,6 +330,7 @@
             "releaseYear":2013
         },
         {
+            "category_id":5,
             "a_id":4,
             "title":"Black Clover",
             "image":"https://i.ibb.co/Gd9PXDd/black-clover.webp",
@@ -304,6 +339,7 @@
             "releaseYear":2017
         },
         {
+            "category_id":5,
             "a_id":5,
             "title":"Bleach",
             "image":"https://i.ibb.co/yqpsyXn/bleach.jpg",
@@ -312,6 +348,7 @@
             "releaseYear":1999
         },
         {
+            "category_id":5,
             "a_id":6,
             "title":"Dragon Ball Z Super",
             "image":"https://i.ibb.co/2Nh3vVg/dragonball-z-super.jpg",
@@ -320,6 +357,7 @@
             "releaseYear":2015
         },
         {
+            "category_id":5,
             "a_id":7,
             "title":"One Piece",
             "image":"https://i.ibb.co/1nqNC6V/one-piece.webp",
@@ -328,6 +366,7 @@
             "releaseYear":1998
         },
         {
+            "category_id":5,
             "a_id":8,
             "title":"Naruto",
             "image":"https://i.ibb.co/60ykKzn/naruto.webp",
@@ -335,5 +374,4 @@
             "rating":8.2,
             "releaseYear":2002
         }
-    ]
-}
+]
